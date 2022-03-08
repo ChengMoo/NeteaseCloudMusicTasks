@@ -1,5 +1,6 @@
 {
-    "version": "2.16",
+    /* 开源地址: https://github.com/chen310/NeteaseCloudMusicTasks */
+    "version": "2.18",
     "users": [
         {
             /* 填写手机号或邮箱 */
@@ -237,6 +238,11 @@
             "739008": {
                 "taskName": "观看课程",
                 "module": "watchCollegeLesson",
+                "enable": false
+            },
+            "740005": {
+                "taskName": "访问自己的云圈",
+                "module": "visitMyCircle",
                 "enable": false
             }
         },
